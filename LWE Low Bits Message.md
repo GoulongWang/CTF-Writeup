@@ -1,4 +1,4 @@
-# LWE High Bits Message
+# LWE Low Bits Message
 ## 思路
 依照題目的解密步驟即可解出明文 m
 
